@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/x-mindmap">
+    <comment>A witty comment</comment>
+    <comment xml:lang="it">Uno Commento</comment>
+    <glob pattern="*.mm"/>
+  </mime-type>
+</mime-info>
